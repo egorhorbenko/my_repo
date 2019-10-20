@@ -1,0 +1,24 @@
+.container {
+
+}
+.h {
+    display: flex;
+    justify-content: center;
+}
+.line{
+    width: 300px
+}
+.p {
+    width: 100%;
+    max-width: 200px;
+    font-size: 20px;
+}
+.link {
+    color:firebrick;
+    text-decoration: none;
+    transition: color 0.2s linear;
+
+}
+.link:hover {
+    color: brown;
+}
