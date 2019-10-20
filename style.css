@@ -14,11 +14,12 @@
     font-size: 20px;
 }
 .link {
-    color:firebrick;
+    font-size: 40px;
+    color: #626262 ;
     text-decoration: none;
     transition: color 0.2s linear;
 
 }
 .link:hover {
-    color: brown;
+    color: #03A9F4;
 }
